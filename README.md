@@ -1,0 +1,2 @@
+# 300620cdd11e6075b177d34e4f28a939
+App id 78C4D-95A15-2B643-35429-F6A26, version name - Тест
